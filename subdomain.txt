@@ -1,0 +1,16 @@
+mail
+mail2
+www
+login
+register
+blog
+localhost
+m
+ftp
+mobile  
+smtp
+search
+api
+dev
+admin
+accounts
